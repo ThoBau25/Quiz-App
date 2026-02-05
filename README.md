@@ -16,9 +16,11 @@ A simple Android Quiz App that allows users to create single- and multiple-choic
 ---
 
 ## Screenshots
-![Home Screen](screenshots/HomeScreen)
-![QuizScreen](screenshots/QuizScreen)
-![HighscoreScreen](screenshots/HighscoreScreen)
+
+
+![Home Screen](screenshots/HomeScreen.png)
+![QuizScreen](screenshots/QuizScreen.png)
+![HighscoreScreen](screenshots/HighscoreScreen.png)
 
 
 ---
